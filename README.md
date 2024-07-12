@@ -1,4 +1,3 @@
-```markdown
 # beepage - Projeto do módulo Expedição
 
 ## Introdução
@@ -16,7 +15,7 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 ### Não Funcionais
 
 ## Estrutura do Projeto
-
+```plaintext
 /
 ├── backend
 │   ├── src
@@ -42,7 +41,7 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 │   ├── CONTRIBUTING.md
 │   └── CHANGELOG.md
 └── .gitignore
-
+```
 ## Como Contribuir
 
 1. Faça um fork deste repositório.
