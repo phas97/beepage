@@ -25,7 +25,7 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
-Para mais detalhes, consulte o [Wiki](https://github.com/seu-usuario/beepage/wiki).
+Para mais detalhes, consulte o [Wiki](https://github.com/phas97/beepage.wiki.git).
 
 ## Licença
 
