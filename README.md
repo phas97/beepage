@@ -1,2 +1,64 @@
-# beepage
-Aplicação para controle de produtos via Bipagem.
+```markdown
+# beepage - Projeto do módulo Expedição
+
+## Introdução
+
+Este projeto visa criar um módulo de expedição com um processo de bipagem de produtos para um e-commerce. O objetivo é melhorar a eficiência e precisão na gestão de expedição de produtos, integrando-o ao sistema de e-commerce existente.
+
+## Objetivos do Projeto
+
+## Tecnologias Utilizadas
+
+## Requisitos do Projeto
+
+### Funcionais
+
+### Não Funcionais
+
+## Estrutura do Projeto
+
+/
+├── backend
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java
+│   │   │   └── resources
+│   │   └── test
+│   ├── pom.xml
+│   └── Dockerfile
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── services
+│   │   ├── styles
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── public
+│   │   ├── index.html
+│   │   └── manifest.json
+│   └── Dockerfile
+├── docs
+│   ├── README.md
+│   ├── CONTRIBUTING.md
+│   └── CHANGELOG.md
+└── .gitignore
+
+## Como Contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature ou correção (`git checkout -b feature/nome-da-feature`).
+3. Faça commit das suas mudanças (`git commit -m 'Adiciona nova feature'`).
+4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
+5. Abra um Pull Request.
+
+Para mais detalhes, consulte o arquivo [CONTRIBUTING.md](docs/CONTRIBUTING.md).
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+Willian Morais - [wil.h2or@hotmail.com](mailto:wil.h2or@hotmail.com) - LinkedIn: [Willian Morais](https://www.linkedin.com/in/wmoraiss)
+
+Paulo Henrique Alves Santos - [pha.santos97@gmail.com](mailto:pha.santos97@gmail.com) - LinkedIn: [Paulo Henrique Alves Santos](https://www.linkedin.com/in/phas97)
