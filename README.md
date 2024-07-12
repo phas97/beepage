@@ -6,42 +6,17 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 
 ## Objetivos do Projeto
 
+1. Melhorar a eficiência na expedição.
+2. Reduzir erros de bipagem.
+3. Integrar o módulo ao sistema existente.
+
 ## Tecnologias Utilizadas
 
-## Requisitos do Projeto
+- Java
+- Spring Boot
+- React
+- Docker
 
-### Funcionais
-
-### Não Funcionais
-
-## Estrutura do Projeto
-```plaintext
-/
-├── backend
-│   ├── src
-│   │   ├── main
-│   │   │   ├── java
-│   │   │   └── resources
-│   │   └── test
-│   ├── pom.xml
-│   └── Dockerfile
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── services
-│   │   ├── styles
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── public
-│   │   ├── index.html
-│   │   └── manifest.json
-│   └── Dockerfile
-├── docs
-│   ├── README.md
-│   ├── CONTRIBUTING.md
-│   └── CHANGELOG.md
-└── .gitignore
-```
 ## Como Contribuir
 
 1. Faça um fork deste repositório.
@@ -50,7 +25,7 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
-Para mais detalhes, consulte o arquivo [CONTRIBUTING.md](docs/CONTRIBUTING.md).
+Para mais detalhes, consulte o [Wiki](https://github.com/seu-usuario/beepage/wiki).
 
 ## Licença
 
@@ -58,6 +33,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Willian Morais - [wil.h2or@hotmail.com](mailto:wil.h2or@hotmail.com) - LinkedIn: [Willian Morais](https://www.linkedin.com/in/wmoraiss)
+Willian Morais - [wil.h2or@hotmail.com](mailto:wil.h2or@hotmail.com)
+LinkedIn: [Willian Morais](https://www.linkedin.com/in/wmoraiss)
 
-Paulo Henrique Alves Santos - [pha.santos97@gmail.com](mailto:pha.santos97@gmail.com) - LinkedIn: [Paulo Henrique Alves Santos](https://www.linkedin.com/in/phas97)
+Paulo Henrique Alves Santos - [pha.santos97@gmail.com](mailto:pha.santos97@gmail.com)
+LinkedIn: [Paulo Henrique Alves Santos](https://www.linkedin.com/in/phas97)
