@@ -12,11 +12,21 @@ Este projeto visa criar um módulo de expedição com um processo de bipagem de 
 
 ## Tecnologias Utilizadas
 
+#### Backend
+- Docker
 - Java
 - Spring Boot
+  
+#### Frontend
 - React
-- Docker
+- Tailwind CSS
 
+#### Integrações e Outras Ferramentas
+- Swagger
+- Git/Hub
+- Postman / Insomnia
+- Jenkins / GitLab CI/CD
+- 
 ## Como Contribuir
 
 1. Faça um fork deste repositório.
